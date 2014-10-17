@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sem1prac2
+#
+
+projectname: sem1prac2
+vendorid: com.theo.sem1
+mainmodule: com.theo.sem1.sem1prac2

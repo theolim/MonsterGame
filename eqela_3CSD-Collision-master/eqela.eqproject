@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# CharObjects
+#
+
+projectname: CharObjects
+vendorid: com.mycompany
+mainmodule: com.mycompany.charobjects
